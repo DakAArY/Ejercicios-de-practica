@@ -27,4 +27,4 @@ def main():
     print(f"Las subsecuencias que suman a {objetivo} son: {resultado}")
 
 if __name__ == "__main__":
-    main()
+    main()  
